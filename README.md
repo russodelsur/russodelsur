@@ -19,7 +19,7 @@
 
 - A passionate Self-taught developer
 - Playing CTF's at spare time
-- Currently learning 70% thourgh HyperionDev's Web Development Bootcamp. See my progress [HERE]](https://www.hyperiondev.com/portfolio/112999/)
+- Currently learning 70% thourgh HyperionDev's Web Development Bootcamp. See my progress [HERE](https://www.hyperiondev.com/portfolio/112999/)
 - Personal website [LINK](https://ruslansanakoev.com/)
 
 <br><br>
