@@ -18,7 +18,6 @@
 <br>
 
 - A passionate Self-taught developer
-- Playing CTF's at spare time
 - Currently learning 70% thourgh HyperionDev's Web Development Bootcamp. See my progress [HERE](https://www.hyperiondev.com/portfolio/112999/)
 - Personal website [LINK](https://ruslansanakoev.com/)
 
@@ -27,7 +26,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -66,9 +64,6 @@
 </p>
 
 <br>
-<br>
-
------
 
 <br>
 
@@ -87,9 +82,6 @@
 
 <br>
 <br>
-<br>
-
------
 
 <br>
 <br>
