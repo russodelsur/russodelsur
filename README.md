@@ -14,8 +14,8 @@
 <br>
 
 - A Russian born, Spanish raised and UK based developer and designer.
-- A creative self-taught developer with a great passion for technology, and design.
-- Currently learning web development with HyperionDev's Web Development Bootcamp. See my progress [HERE](https://www.hyperiondev.com/portfolio/112999/)
+- A creative self-taught developer with a great passion for technology, and design. 
+- Graduated from HyperionDev's Full Stack Web Development Bootcamp.
 - Personal website [LINK](https://ruslansanakoev.com/)
 
 <br><br>
