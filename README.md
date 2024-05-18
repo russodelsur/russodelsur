@@ -15,7 +15,6 @@
 
 - A Russian born, Spanish raised and UK based developer and designer.
 - A creative self-taught developer with a great passion for technology, and design. 
-- Graduated from HyperionDev's Full Stack Web Development Bootcamp.
 - Personal website [LINK](https://ruslansanakoev.com/)
 
 <br><br>
